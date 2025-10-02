@@ -26,6 +26,3 @@
 ### 8. Reorder Target Contours.
 
 ### 9. Project the Image to a Fixed Screen.
-
-
-This text is added to check the PR requests in the GITHUB. Please do ignore it
